@@ -20,4 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "matrixproj"
-include ':app'
+//include ':app'
+include ':matrixclient'
+include ':matrixserver'
